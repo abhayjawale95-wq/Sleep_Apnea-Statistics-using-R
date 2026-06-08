@@ -3,13 +3,19 @@
 A statistical analysis of sleep apnea patient data using Python, covering 
 descriptive statistics, hypothesis testing, and predictive modeling.
 
-## Overview
 
 This project applies a full statistical workflow to a healthcare dataset 
 containing sleep, physiological, and lifestyle variables. The goal was to 
 identify patterns and clinical associations relevant to sleep apnea severity 
 and hypertension.
 
+## Data Disclaimer
+
+The dataset used in this project was synthetically generated using Claude AI 
+(Anthropic) by prompting it to create realistic sleep apnea patient data. 
+No real patient data, personal information, or protected health information 
+(PHI) was captured, collected, or used at any stage of this project. 
+This dataset is intended solely for educational and analytical purposes.
 ## Dataset
 
 Synthetic sleep apnea patient dataset (`sm.csv`) containing variables including:
